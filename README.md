@@ -6,7 +6,7 @@ The app is developed for a Fitbit smartwatch, which measures the user's heartbea
 <img src="readme_content/interface1_version1.jpg" alt="State 1">
 
 <h4>State 2 (heartbeat above 100 bpm):</h4>
-<img src="readme_content/interface2_version2.jpg" alt="State 1">
+<img src="readme_content/interface2_version2.jpg" alt="State 2">
 
 <h4>State 3 (normal heartbeat + shown how many times change in the hertbeat was detected durting the day):</h4>
-<img src="readme_content/interface3_version3.jpg" alt="State 1">
+<img src="readme_content/interface3_version2.jpg" alt="State 3">
