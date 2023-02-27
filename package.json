@@ -1,0 +1,24 @@
+{
+  "devDependencies": {
+    "@fitbit/sdk": "~6.1.0"
+  },
+  "fitbit": {
+    "appUUID": "86874233-3da1-4846-abc7-59ec20a98571",
+    "appType": "app",
+    "appDisplayName": "FEEL",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#ff5722",
+    "requestedPermissions": [
+      "access_heart_rate"
+    ],
+    "buildTargets": [
+      "vulcan"
+    ],
+    "i18n": {
+      "en-US": {
+        "name": "FEEL"
+      }
+    },
+    "defaultLanguage": "en-US"
+  }
+}

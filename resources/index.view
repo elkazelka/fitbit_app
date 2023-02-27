@@ -1,0 +1,6 @@
+<svg>
+  <text id="message" x="15%" y = "20%" class="notification">Are you OK?</text>
+  <text id="hrm" x="30%" y="60%" class="large-value">78</text>
+  <text id="notify" x="12%" y="80%" class="notify">1 change detected</text>
+  <text id="updated" x="0" y="92%" class="updated">now!</text>
+</svg>
